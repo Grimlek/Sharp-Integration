@@ -1,0 +1,437 @@
+
+ INFO Entry : 7:11:54 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:13:51 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:16:26 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:17:04 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:17:06 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:17:19 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:17:29 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:23:57 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:24:41 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:26:07 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:26:10 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:26:14 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:26:14 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:32:09 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:32:24 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:41:33 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:43:21 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:43:52 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:44:46 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:44:51 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:45:12 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:46:45 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:46:49 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:46:53 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:48:15 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 7:48:16 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 7:48:17 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:56:35 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:56:39 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:56:41 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 7:56:42 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 7:56:42 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 7:56:42 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 7:57:28 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:57:33 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:57:41 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:58:03 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:58:12 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 7:58:13 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 7:58:13 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 7:58:39 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 7:58:48 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:01:23 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:01:32 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:01:33 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 8:01:33 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:02:12 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:03:18 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:03:23 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:03:24 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 8:03:24 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:03:47 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:04:31 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:04:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:04:37 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 8:04:37 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:04:42 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:04:45 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:05:04 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:05:05 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:05:09 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:05:11 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+
+ ERROR Entry : 8:05:12 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:05:14 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:05:15 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:07:16 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:07:16 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:07:29 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:07:30 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:07:31 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:07:35 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:09:13 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:13 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:15 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:17 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:18 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:19 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:20 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:20 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:22 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:22 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:24 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:24 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:26 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:26 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:28 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:28 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:30 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:30 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:32 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:32 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:34 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:34 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:36 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:38 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:38 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:40 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:40 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:42 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:42 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:44 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:44 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:46 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:46 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:48 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:48 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:50 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:50 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:52 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:52 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:54 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:54 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:56 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:56 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:09:58 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:09:58 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:00 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:00 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:02 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:02 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:04 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:04 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:06 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:06 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:08 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:08 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:10 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:10 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:12 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:12 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:14 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:14 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:16 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:16 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:18 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:18 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:20 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:20 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:22 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:22 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:24 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:24 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:26 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:26 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:28 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:28 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:30 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:30 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:32 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:32 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:34 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:34 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:36 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:38 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:38 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:10:40 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:10:40 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:14:59 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:14:59 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:26:19 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:26:20 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:26:28 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:26:29 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:26:30 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:32 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:34 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:38 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:40 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:42 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:26:54 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:26:54 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:27:00 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:27:00 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:27:02 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:27:04 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:27:11 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:27:13 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:28:41 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:28:49 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:28:49 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:29:49 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:29:49 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:30:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:30:36 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:31:57 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+
+ ERROR Entry : 8:31:57 PM | DateTime.Now.ToLongDateString()
+: JetClientService : Error occurred, the status code is: {0}Unauthorized-------------------------------
+
+ INFO Entry : 8:38:36 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:38:55 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:40:33 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:40:45 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:41:58 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:42:21 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:45:10 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:47:33 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:57:51 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 8:57:52 PM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 9:00:40 PM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 9:00:41 PM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:08:43 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:08:44 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:09:50 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:09:51 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:12:55 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:12:56 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:19 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:20 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:21 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:22 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:23 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:24 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:25 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:25 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:27 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:27 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:29 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:30 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:31 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:32 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success
+ INFO Entry : 1:13:33 AM | DateTime.Now.ToLongDateString() : JetClientService --------- --- Check for Orders by Status: Ready
+ INFO Entry : 1:13:34 AM | DateTime.Now.ToLongDateString() : JetClientService --------- Get Orders by Status Success

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCB410B2-5F8F-48B7-8A30-914AD61967EE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MultiChannelIntegration</RootNamespace>
+    <AssemblyName>MultiChannelIntegration</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="controllers\ShipStationController.cs" />
+    <Compile Include="domain\jet\AuthorizationToken.cs" />
+    <Compile Include="domain\jet\order\AcknowledgementOrder.cs" />
+    <Compile Include="domain\jet\order\AcknowledgementOrderItem.cs" />
+    <Compile Include="domain\jet\order\Address.cs" />
+    <Compile Include="domain\jet\order\Buyer.cs" />
+    <Compile Include="domain\jet\order\ItemPrice.cs" />
+    <Compile Include="domain\jet\order\JetOrder.cs" />
+    <Compile Include="domain\jet\order\JetOrders.cs" />
+    <Compile Include="domain\jet\order\OrderDetail.cs" />
+    <Compile Include="domain\jet\order\OrderItem.cs" />
+    <Compile Include="domain\jet\order\Recipient.cs" />
+    <Compile Include="domain\jet\order\ShippingRecipient.cs" />
+    <Compile Include="domain\jet\report\OrderBalanceDetails.cs" />
+    <Compile Include="domain\jet\report\ReturnBalanceDetails.cs" />
+    <Compile Include="domain\jet\report\SettlementReport.cs" />
+    <Compile Include="domain\jet\report\SettlementReports.cs" />
+    <Compile Include="domain\jet\returns\Item.cs" />
+    <Compile Include="domain\jet\returns\RefundAmount.cs" />
+    <Compile Include="domain\jet\returns\RequestedRefundAmount.cs" />
+    <Compile Include="domain\jet\returns\ReturnDetails.cs" />
+    <Compile Include="domain\jet\returns\ReturnMerchantSku.cs" />
+    <Compile Include="domain\jet\returns\Returns.cs" />
+    <Compile Include="domain\jet\shipment\CancelShipment.cs" />
+    <Compile Include="domain\jet\shipment\CancelShipmentItem.cs" />
+    <Compile Include="domain\jet\shipment\CancelShipments.cs" />
+    <Compile Include="domain\jet\shipment\JetShipment.cs" />
+    <Compile Include="domain\jet\shipment\JetShipmentItem.cs" />
+    <Compile Include="domain\jet\shipment\JetShipments.cs" />
+    <Compile Include="domain\jet\sku\Attribute.cs" />
+    <Compile Include="domain\jet\sku\FulfillmentNode.cs" />
+    <Compile Include="domain\jet\sku\FulfillmentNodes.cs" />
+    <Compile Include="domain\jet\sku\Inventory.cs" />
+    <Compile Include="domain\jet\sku\ProductCode.cs" />
+    <Compile Include="domain\jet\sku\ReturnsException.cs" />
+    <Compile Include="domain\jet\sku\ShippingException.cs" />
+    <Compile Include="domain\jet\sku\Sku.cs" />
+    <Compile Include="domain\shipstation\AdvancedOptions.cs" />
+    <Compile Include="domain\shipstation\OrderItem.cs" />
+    <Compile Include="domain\shipstation\Recipient.cs" />
+    <Compile Include="domain\shipstation\shipment\Dimensions.cs" />
+    <Compile Include="domain\shipstation\shipment\ShipStationShipment.cs" />
+    <Compile Include="domain\shipstation\shipment\ShipStationShipmentItem.cs" />
+    <Compile Include="domain\shipstation\shipment\ShipStationShipments.cs" />
+    <Compile Include="domain\shipstation\shipment\Weight.cs" />
+    <Compile Include="domain\shipstation\ShipStationOrder.cs" />
+    <Compile Include="domain\shipstation\ShipStationOrders.cs" />
+    <Compile Include="domain\enums\Carrier.cs" />
+    <Compile Include="domain\enums\General.cs" />
+    <Compile Include="domain\enums\Service.cs" />
+    <Compile Include="domain\enums\OrderStatus.cs" />
+    <Compile Include="controllers\JetController.cs" />
+    <Compile Include="JetScheduler.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="services\JetClientService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="services\ShipStationClientService.cs" />
+    <Compile Include="utils\AppConverter.cs" />
+    <Compile Include="utils\AppUtils.cs" />
+    <Compile Include="utils\Logger.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
